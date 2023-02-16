@@ -5,5 +5,6 @@ public class KostaGit {
 		System.out.println("Kosta-Git");
 		System.out.println("Kosta-Git1");
 		System.out.println("Kosta-Git2");
+		System.out.println("Kosta-Git3");
 	}
 }
